@@ -5,7 +5,7 @@ Why is Timely Delivery Crucial in Software Project Management?
     Competitive Advantage: Timely delivery helps businesses stay ahead in the market by launching products before competitors.
     Cost Efficiency: Delays often lead to increased costs due to extended resource usage, additional labor, and potential penalties.
     Maintaining Credibility: Consistently delivering on time builds a company’s reputation for reliability and efficiency.
-    Avoiding Scope Creep: When projects extend beyond their timeline, they often suffer from scope creep, leading to inefficiencies.
+    Avoiding Scope Creep: When projects extend beyond their timeline, they often suffer from scope creep, leading to inefficiencies
 
 How Can Project Managers Ensure That Deadlines Are Met?
 
